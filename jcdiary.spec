@@ -24,7 +24,7 @@ jClimber's Diary to aplikacja w Javie do zapisywania tras
 wspinaczkowych w czym¶ w rodzaju dziennika. Wpisy s± zapisywane
 hierarchicznie, wiêc ³atwo jest nawigowaæ i wyszukiwaæ w drzewie.
 Mo¿na dodawaæ komentarze do ka¿dego wpisu lub odpowiednich tras. Dane
-s± zapisywane w formacie XML i mog± byæ wyeksportowane do HTML.
+s± zapisywane w formacie XML i mog± byæ wyeksportowane do HTML-a.
 
 %prep
 %setup -q -n %{name}
