@@ -6,6 +6,7 @@ Release:	0.1
 Group:		X11/Applications
 License:	GPL v2
 Source0:	http://www.saring.de/jcd/download/%{name}-%{version}-src.zip
+# Source0-md5:	71f8871aacdedc14ada51bf0fbaa5563
 URL:		http://www.saring.de/jcd/
 BuildRequires:	jdk
 Requires:	jre
