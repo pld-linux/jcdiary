@@ -1,5 +1,5 @@
 Summary:	jClimber's Diary
-Summary(pl.UTF-8):   jClimber's Diary - dziennik wspinaczkowy
+Summary(pl.UTF-8):	jClimber's Diary - dziennik wspinaczkowy
 Name:		jcdiary
 Version:	2.0
 Release:	0.1
